@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "312-3126315_pokemon-pokmon-pokeball-pokball-pokemon-go-pokem-pokeball-2-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
